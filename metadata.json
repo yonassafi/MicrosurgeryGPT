@@ -1,0 +1,4 @@
+{
+  "name": "MicrosurgeryGPT",
+  "description": "A specialized medical AI interface for plastic and reconstructive microsurgery. It simulates a model fine-tuned on PubMed abstracts (2020-2024) to provide expert insights on free flaps, lymphedema, and supermicrosurgery."
+}
